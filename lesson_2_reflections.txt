@@ -14,3 +14,9 @@ When experimenting with some new feature. Development work and similar.
 
 How do the diagrams help you visualize the branch structure?
 Helps to see how we can move through the branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+I dont know
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Quicker but it can breake code
